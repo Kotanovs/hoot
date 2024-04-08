@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: d9021acaa51e3354bbebd7e8fc63e815
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: duck_carbine(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: duck_carbine(Clone)
+      position: {x: 0.017939186, y: 0.16845447, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface1
+      parentName: pCube1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.43342897, w: 0.9011878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface3
+      parentName: polySurface1
+      position: {x: 0.19992416, y: 0.044336952, z: 0}
+      rotation: {x: -0, y: -0, z: -0.91356164, w: 0.40670028}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface5
+      parentName: polySurface3
+      position: {x: -0.19992416, y: -0.045859713, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0321366}
+    - name: polySurface13
+      parentName: polySurface5
+      position: {x: 0.19992416, y: 0.045859713, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface25
+      parentName: polySurface13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: 0.56533784, w: 0.8248595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface27
+      parentName: polySurface25
+      position: {x: -0.200289, y: -0.045494795, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface28
+      parentName: polySurface25
+      position: {x: -0.40624747, y: -0.09381824, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.7558301}
+    - name: polySurface29
+      parentName: polySurface28
+      position: {x: -0.0004401255, y: -0.00096417905, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.4331894}
+    - name: polySurface30
+      parentName: polySurface28
+      position: {x: -0.002207408, y: -0.0045001353, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.24529065}
+    - name: polySurface26
+      parentName: polySurface13
+      position: {x: -0.5153695, y: -0.012553274, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0445514, z: 1.2370889}
+    - name: polySurface6
+      parentName: polySurface3
+      position: {x: -0.050545722, y: 0.042673394, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.6335605}
+    - name: pCylinder1
+      parentName: duck_carbine(Clone)
+      position: {x: 0.21432778, y: 0.21210271, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.43975258, y: 0.43975258, z: 0.43975258}
+    - name: pCylinder3
+      parentName: duck_carbine(Clone)
+      position: {x: 0.26854053, y: 0.23305628, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.16261029, y: 0.16261029, z: 0.16261029}
+    - name: pCylinder4
+      parentName: duck_carbine(Clone)
+      position: {x: 0.28810793, y: 0.23305628, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.16261029, y: 0.01806781, z: 0.16261029}
+    - name: pCylinder5
+      parentName: duck_carbine(Clone)
+      position: {x: 0.27896947, y: 0.23305628, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.104680866, y: 0.011631208, z: 0.104680866}
+    - name: pCube4
+      parentName: duck_carbine(Clone)
+      position: {x: -0.033145275, y: 0.2436548, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 6.8965755, y: 1, z: 0.8408841}
+    - name: pCube5
+      parentName: duck_carbine(Clone)
+      position: {x: -0.2890177, y: 0.24690358, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.2067933, y: 1, z: 0.5128773}
+    - name: pCube6
+      parentName: duck_carbine(Clone)
+      position: {x: -0.025197206, y: 0.15273964, z: 0}
+      rotation: {x: 0, y: -0, z: -0.25881907, w: 0.9659259}
+      scale: {x: 1.6329558, y: 6.5705385, z: 0.56036466}
+    - name: polySurface18
+      parentName: pCube6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface19
+      parentName: polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface20
+      parentName: polySurface18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube11
+      parentName: duck_carbine(Clone)
+      position: {x: -0.11017292, y: 0.18715206, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.44444445, y: 1, z: 0.25814077}
+    - name: pCube12
+      parentName: duck_carbine(Clone)
+      position: {x: 0.014665342, y: 0.2110761, z: -0.007132696}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2.97494, y: 1, z: 1.1426288}
+    - name: pCube13
+      parentName: duck_carbine(Clone)
+      position: {x: 0.16096056, y: 0.21631727, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 6.2330184, y: 1, z: 0.22086221}
+    - name: pCube14
+      parentName: duck_carbine(Clone)
+      position: {x: -0.19631502, y: 0.2311498, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.2067933, y: 1, z: 0.5560314}
+    - name: pCube16
+      parentName: duck_carbine(Clone)
+      position: {x: -0.14263713, y: 0.2378149, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0582389, y: 1, z: 0.23275371}
+    - name: pCube17
+      parentName: duck_carbine(Clone)
+      position: {x: -0.3285889, y: 0.19388446, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6010649, y: 1, z: 1.0007669}
+    - name: polySurface22
+      parentName: pCube17
+      position: {x: -0.0025563238, y: 0.0024959922, z: 0.0035043114}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube18
+      parentName: duck_carbine(Clone)
+      position: {x: -0.35485864, y: 0.22761512, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface16
+      parentName: pCube18
+      position: {x: -0.0040060473, y: -0.026364148, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface23
+      parentName: polySurface16
+      position: {x: 0.0040060473, y: 0.026364148, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface24
+      parentName: polySurface16
+      position: {x: 0.0039029755, y: 0.026364148, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0496583, y: 1, z: 1}
+    - name: pCube19
+      parentName: duck_carbine(Clone)
+      position: {x: -0.3392679, y: 0.20600604, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.7620557}
+    - name: polySurface4
+      parentName: duck_carbine(Clone)
+      position: {x: 0.13592033, y: 0.1465744, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0651306}
+    - name: polySurface32
+      parentName: polySurface4
+      position: {x: -0.13592033, y: -0.14777456, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface33
+      parentName: polySurface4
+      position: {x: -0.13592033, y: -0.14777456, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface15
+      parentName: duck_carbine(Clone)
+      position: {x: 0.060155075, y: 0.23215654, z: 0.011045155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: polySurface14
+      parentName: duck_carbine(Clone)
+      position: {x: -0.16124785, y: 0.21331568, z: -3.6577244e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube33
+      parentName: duck_carbine(Clone)
+      position: {x: -0.06531064, y: 0.14564425, z: 0.016119106}
+      rotation: {x: 0, y: -0, z: -0.25881907, w: 0.9659259}
+      scale: {x: 0.8724503, y: 0.3102045, z: 0.12174239}
+    - name: pCylinder16
+      parentName: duck_carbine(Clone)
+      position: {x: 0.34674048, y: 0.21210271, z: 0}
+      rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.34392256, y: 1.3754797, z: 0.34392256}
+    - name: pCube34
+      parentName: duck_carbine(Clone)
+      position: {x: -0.08540843, y: 0.066464275, z: 0.013371927}
+      rotation: {x: 0, y: -0, z: -0.25881907, w: 0.9659259}
+      scale: {x: 0.94108206, y: 0.27876434, z: 0.07685714}
+    - name: pCube39
+      parentName: duck_carbine(Clone)
+      position: {x: 0.16102685, y: 0.20640525, z: 0.0017271006}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCylinder50
+      parentName: duck_carbine(Clone)
+      position: {x: -0.045069147, y: 0.15624848, z: 0.014176611}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube40
+      parentName: duck_carbine(Clone)
+      position: {x: -0.1617479, y: 0.25446737, z: 0.011831366}
+      rotation: {x: 0, y: -0, z: -0.21643962, w: 0.976296}
+      scale: {x: 0.08306632, y: 0.08306632, z: 0.08306632}
+    - name: pCube41
+      parentName: duck_carbine(Clone)
+      position: {x: -0.1617479, y: 0.25446737, z: -0.008414219}
+      rotation: {x: 0, y: -0, z: -0.21643962, w: 0.976296}
+      scale: {x: 0.08306632, y: 0.08306632, z: 0.08306632}
+    - name: pCube44
+      parentName: duck_carbine(Clone)
+      position: {x: 0.072263524, y: 0.24990964, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.13184845, y: 0.20048182, z: 0.3933303}
+    - name: pCube57
+      parentName: duck_carbine(Clone)
+      position: {x: -0.30703476, y: 0.14390035, z: -0.00097521767}
+      rotation: {x: 0, y: 0, z: 0.13052619, w: 0.9914449}
+      scale: {x: 0.38057172, y: 0.38057172, z: 0.38057172}
+    - name: pCylinder53
+      parentName: duck_carbine(Clone)
+      position: {x: -0.30544332, y: 0.17395017, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
